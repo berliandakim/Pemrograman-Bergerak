@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VisitSouthKorea</string>
+    <string name="visit_korea">Visit Korea</string>
+    <string name="feel_the_amazing_place">Feel The Amazing Place</string>
+    <string name="image_city">Image City</string>
+    <string name="name_city">Name City</string>
+    <string name="choose_your_city">Choose your city</string>
+    <string name="more_info">More Info</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hotel">Hotel</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="museum">Museum</string>
+    <string name="fashion">Fashion</string>
+    <string name="market">Market</string>
+    <string name="nature">Nature</string>
+    <string name="choose_option">Choose Option</string>
+</resources>
